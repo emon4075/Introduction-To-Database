@@ -1,0 +1,95 @@
+I really like this idea
+that in the end we're all solving human problems
+through technology. As a software engineer,
+my role is not to simply develop
+technological solutions, they need to have
+this human outcome. I'm Daniel Bloomfield Ramagem, I'm a software
+engineer for Meta. I joined the company in 2017 and I work out of our
+Washington DC office. I immediately think of
+my mother's recipe book, which is a spiral notebook. She keeps her recipes in a spiral notebook, every
+page of the number, and she keeps an index at the beginning
+of that note books so she can easily find the recipe. Well,
+that's a database. My mom is a database engineer. Perhaps she is not an
+engineer, but certainly she relies and has
+created her databases. I like that fun example because it shows the
+range of things that are possible once you store data in a structured way that is
+can be easily retrieved, and so it's the recipe book, but it's also the
+picture I just shared on Facebook that now
+my friends get to see anywhere they are in
+the world so quickly. All that is powered by a
+lot of infrastructure, databases at the core. I think data is at the
+heart of every application. Learning to create an
+effective data layer that can provide the user
+with quick responses, accurate responses, and
+results is really critical. As a Database Engineer
+in particular, I think you are involved in such a critical component of
+building applications and you have such a large influence and everything else that
+follows from the data. That includes the
+user interface, it includes the clients, the APIs, all of that gets influenced by how the
+data layer gets modeled, stored, and all the
+characteristics of being able to
+retrieve that data effectively and making
+it the consumption of that information easy for
+the rest of the tech stack. We have a really
+large influence and I hope you walk away knowing that you have this very
+large influence on the development
+of applications. Technical skills I
+use on a daily basis. Certainly, I code. When I say code, I mean, normally I program using the standard programming
+languages for web. But I also work in
+the database space by creating the
+pipelines that produce, that extract, transform, and
+load a lot of the data that makes its way into the
+applications that we develop. The soft skills I use on
+a daily basis certainly include a lot of communication
+and organization. It's easy to come out of school and you're so excited
+at the coding, the technical skills
+you've learned, and those are obviously
+very important. But I thought code was king. I'm here to program,
+and I expect people to understand the
+output of what I'm making. I learned that that is
+insufficient and I saw great examples of people who were doing
+great technically, but they were excelling
+furthermore on just being able to explain
+what they were doing, not only to the team internally, but to the people who
+are going to maybe use those features in the toolset. The perfect is the
+enemy of the good. Particularly think we've
+database development, it's easy to
+over-complicate solutions, especially when you're doing data modeling and data storage, you want to cover every
+possible variation of data, every different use case, edge case for using that data. That can lead you down
+the path of creating very complex data schemas that
+become hard to maintain, can be not well performance. You need to iterate
+on your work. For databases, I would
+say try to focus on the here and now needs of data, be specially mindful of these perceived needs for
+massive data scalability, which may again lead to
+over-complicate your solution when in fact you might need
+something much smaller scale, at least the kickoff and
+get better understanding of what the feature and the
+data requirements truly are. Start small, iterate
+frequently, write more often. I know usually when you think of engineers and
+database programmers, you think of the
+output of your work is the program if the
+code is the SQL queries. Yes, it is. But that alone
+I think is insufficient. Complement that with writing. Now, what are you
+going to write about? Well, certainly there's documentation that goes
+along with your code. I have a good colleague in Meta that always tells me when I
+said I'm done with something, he looks at me and says, are you done done? I said the first time
+he said, yes, I'm done. He followed up with, is
+our documentation ready? Is your co-check in
+the right places? Is the wiki page updated? Did you write a post about this? He emphasized the importance
+of code is the 80 percent, 20 percent is that additional communication
+that's needed. I would say, write more often. Don't be afraid to
+write imperfectly, write something, put
+something out there, whether it's sharing the status of something that you're doing, whether it's just enhancing documentation for something
+that you're working on, get into the habit of
+writing more often. Try to take what you're
+learning and connect it to something practical that
+you can see a use for. Whether it's learning about
+databases and thinking about a recipe book that
+your mother or father has in a spiral notebook, or maybe baseball cards that
+you tracked as a child, or comic books that do
+tracked as a child. Try to think of
+ways to apply what you're learning technically
+to these real-life problems. They can be small problems, like finding recipes at the right time, but they can
+be of course, bigger, more, perhaps interesting
+problems around just technical and digital
+communication between people.
