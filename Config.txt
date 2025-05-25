@@ -1,4 +1,0 @@
-Host: localhost
-User: sqluser
-Password: password
-Port number : 3306
